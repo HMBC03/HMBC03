@@ -16,7 +16,7 @@
 - 🎯 Learning **IA, sistemas distribuidos y DevOps**   
 - 💡 Comprometido con la creación de **código limpio y escalable**
 - 🌱 Siempre explorando nuevas tecnologías y mejores prácticas
-- 🎮 Fan de Zelda y AO2
+- 🎮 Fan de Zelda y AOE2
 ---
 
 
