@@ -98,7 +98,7 @@ const hector = {
     askMeAbout: ["web dev", "backend", "AI", "clean code"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
+            js: ["React"],
             css: ["Tailwind", "Styled Components"]
         },
         backEnd: {
@@ -107,7 +107,7 @@ const hector = {
             java: ["Spring Boot"]
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "AWS", "Linux"],
+        devOps: ["Docker", "Linux"],
         tools: ["Git", "Postman", "VS Code"]
     },
     currentFocus: "Building scalable applications with clean architecture"
