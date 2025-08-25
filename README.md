@@ -1,12 +1,13 @@
 <h1 align="center">   ✨ Héctor Beltran — Dev  ✨ </h1>  
 
 <p align="center">   
-  <img src="https://i.imgur.com/1ZvVkDc.gif" width="700" alt="Zelda Banner"/> 
+  <img src="https://i.imgur.com/1ZvVkDc.gif" width="700" alt="Zelda Banner" style="pointer-events: none;"/> 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=8E27F5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%26+Frontend+Expert;Always+Learning+New+Tech" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=8E27F5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%26+Frontend+Expert;Always+Learning+New+Tech" alt="Typing SVG" style="pointer-events: none;"/>
 </p>
+
 
 ---
 
