@@ -11,7 +11,7 @@
 
 ---
 
- 👨‍💻 Sobre mí
+ ## 👨‍💻 Sobre mí
 
 - 🚀 Desarrollador con amplio manejo **backend** y **frontend**   
 - 🎯 Learning **IA, sistemas distribuidos y DevOps**   
