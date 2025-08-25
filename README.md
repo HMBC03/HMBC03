@@ -48,12 +48,12 @@
 
 ### 🔹 Frameworks & Libraries
 <p align="center">   
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,express,fastapi,tailwind" /> 
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,express,fastapi" /> 
 </p>  
 
 ### 🔹 Infraestructura & DevOps 
 <p align="center">   
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,aws,vercel" /> 
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel" /> 
 </p>  
 
 ### 🔹 Bases de Datos 
@@ -70,25 +70,15 @@
 
 ## 🎯 Actualmente
 
-- 🔭 Trabajando en: **[Tu proyecto actual]**
+- 🔭 Trabajando en: **RAG**
 - 🌱 Aprendiendo: **Kubernetes, Microservicios, Machine Learning**
 - 👯 Buscando colaborar en: **Proyectos open source**
 - 💬 Pregúntame sobre: **JavaScript, Python, arquitectura de software**
-- ⚡ Dato curioso: **[Algo interesante sobre ti]**
-
-
 
 
 
 ---
 
-## 🏆 Logros
-
-- 🎓 **[Certificación/Título]** - [Institución]
-- 🥇 **[Premio/Reconocimiento]** - [Evento/Competencia]
-- 📚 **[Curso destacado]** - [Plataforma]
-
----
 
 ## 💻 Configuración de Desarrollo
 
