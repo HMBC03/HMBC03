@@ -13,7 +13,8 @@
 
  ## 👨‍💻 Sobre mí
 
-- 🚀 Desarrollador con amplio manejo **backend** y **frontend**   
+- 🚀 Desarrollador con amplio manejo **backend** y **frontend**
+- 
 - 🎯 Learning **IA, sistemas distribuidos y DevOps**   
 - 💡 Comprometido con la creación de **código limpio y escalable**
 - 🌱 Siempre explorando nuevas tecnologías y mejores prácticas
