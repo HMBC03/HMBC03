@@ -1,6 +1,6 @@
 <h1 align="center">   ✨ Héctor Beltran — Dev  ✨ </h1>  
 
-<p align="center">   
+<p align="center">    
   <img src="https://i.imgur.com/1ZvVkDc.gif&link=false" width="700" alt="Zelda Banner" style="pointer-events: none;"/> 
 </p>
 
